@@ -47,7 +47,7 @@
 
 Technologies that I used to develop
 
-- [Java] ("https://www.oracle.com/java/")
+- [Java](https://www.oracle.com/java/)
 
 ## 🤔 How to contribute
 
