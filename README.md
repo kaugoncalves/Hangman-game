@@ -6,7 +6,7 @@
 <p align="center">Hangman on your console! ⬛</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kaugoncalves/FunkoPop-Virtual-Shop">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kaugoncalves/Hangman-game">
 
   <a href="https://www.linkedin.com/in/kauan-gonçalves-3323501b6/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Kauan%20Gonçalves-gree">
